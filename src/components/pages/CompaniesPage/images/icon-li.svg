@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+    <defs>
+        <style>
+            .cls-1{fill:none}.cls-2,.cls-4{fill:#fff}.cls-2{fill-rule:evenodd}.cls-3,.cls-4{stroke:none}
+        </style>
+    </defs>
+    <g id="Symbol_26_55" data-name="Symbol 26 – 55" transform="translate(-600 -3700)">
+        <g id="Path_3352" class="cls-1" data-name="Path 3352">
+            <path d="M18 0A18 18 0 1 1 0 18 18 18 0 0 1 18 0z" class="cls-3" transform="translate(600 3700)"/>
+            <path d="M18 34c4.274 0 8.292-1.664 11.314-4.686A15.895 15.895 0 0 0 34 18c0-4.274-1.664-8.292-4.686-11.314A15.895 15.895 0 0 0 18 2 15.895 15.895 0 0 0 6.686 6.686 15.895 15.895 0 0 0 2 18c0 4.274 1.664 8.292 4.686 11.314A15.895 15.895 0 0 0 18 34m0 2C8.059 36 0 27.941 0 18S8.059 0 18 0s18 8.059 18 18-8.059 18-18 18z" class="cls-4" transform="translate(600 3700)"/>
+        </g>
+        <path id="check_on_light" d="M12.357 22L7 16.712l1.5-1.481 3.857 3.808L20.5 11l1.5 1.481L12.357 22z" class="cls-2" transform="translate(604 3702)"/>
+    </g>
+</svg>

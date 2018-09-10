@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+    <defs>
+        <style>
+            .cls-1,.cls-4{fill:none}.cls-1{stroke:#74be21;stroke-width:2px}.cls-2{fill:#74be21;fill-rule:evenodd}.cls-3{stroke:none}
+        </style>
+    </defs>
+    <g id="znak" transform="translate(-340 -1485)">
+        <g id="Ellipse_118" class="cls-1" data-name="Ellipse 118" transform="translate(340 1485)">
+            <circle cx="18" cy="18" r="18" class="cls-3"/>
+            <circle cx="18" cy="18" r="17" class="cls-4"/>
+        </g>
+        <path id="check_on_light" d="M12.357 22L7 16.712l1.5-1.481 3.857 3.808L20.5 11l1.5 1.481L12.357 22z" class="cls-2" transform="translate(344 1487)"/>
+    </g>
+</svg>

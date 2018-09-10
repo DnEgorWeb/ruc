@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 17">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1b426c;
+      }
+    </style>
+  </defs>
+  <g id="icon-menu" transform="translate(-1686 -54)">
+    <rect id="Rectangle_801" data-name="Rectangle 801" class="cls-1" width="24" height="3" rx="1.5" transform="translate(1686 54)"/>
+    <path id="Path_2238" data-name="Path 2238" class="cls-1" d="M1.5,0h11a1.5,1.5,0,0,1,0,3H1.5a1.5,1.5,0,0,1,0-3Z" transform="translate(1686 61)"/>
+    <rect id="Rectangle_803" data-name="Rectangle 803" class="cls-1" width="24" height="3" rx="1.5" transform="translate(1686 68)"/>
+  </g>
+</svg>

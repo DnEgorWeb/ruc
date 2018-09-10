@@ -1,0 +1,49 @@
+.input-range {
+    user-select: none;
+    margin: 25px 10px 20px;
+    width: auto;
+}
+
+.input-range__label {
+    font-family: inherit;
+    color: #fff;
+}
+
+.input-range__label--value {
+    color: #7ad513;
+    top: -2.3rem;
+    font-size: 15px;
+    font-weight: bold;
+    line-height: 1.2;
+}
+
+@media (min-width: 768px) {
+    .input-range__label--value {
+        font-size: 18px;
+    }
+}
+
+.input-range__label--max .input-range__label-container {
+    left: 0;
+}
+
+.input-range__label--min .input-range__label-container {
+    left: 0;
+}
+
+.input-range__track {
+    height: 2px;
+}
+
+.input-range__track--active {
+    background: #7ad513;
+}
+
+.input-range__slider {
+    background: #7ad513;
+    border-color: #7ad513;
+}
+
+.input-range__slider:active {
+    transform: scale(1.15);
+}
